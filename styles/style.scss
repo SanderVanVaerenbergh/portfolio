@@ -1,0 +1,26 @@
+html{
+    font-size: 62.5%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #535762;
+    font-family: "Montserrat", sans-serif;
+}
+
+li {
+    font-size: 2rem;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+@import "home";
